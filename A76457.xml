@@ -1,0 +1,602 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ezekiel's prophesie parallel'd: or, The desire of the eyes taken away Delivered in a sermon, preach'd at the funerals of the most virtuous Mrs Elizabeth Cole, wife to Robert Cole Esquire, at Wye in Kent, Nov. 26. MDCLI. By Samuel Barnard, Doctor in Divinity.</title>
+            <author>Bernard, Samuel, 1590 or 91-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76457</idno>
+            <idno type="STC">Wing B2037A</idno>
+            <idno type="STC">ESTC R231035</idno>
+            <idno type="EEBO-CITATION">99896765</idno>
+            <idno type="PROQUEST">99896765</idno>
+            <idno type="VID">135149</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76457)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135149)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2435:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ezekiel's prophesie parallel'd: or, The desire of the eyes taken away Delivered in a sermon, preach'd at the funerals of the most virtuous Mrs Elizabeth Cole, wife to Robert Cole Esquire, at Wye in Kent, Nov. 26. MDCLI. By Samuel Barnard, Doctor in Divinity.</title>
+                  <author>Bernard, Samuel, 1590 or 91-1657.</author>
+               </titleStmt>
+               <extent>[6], 32 [i.e. 29], [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Andrew Crook,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 29 misnumbered '32'.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cole, Elizabeth, --  Mrs --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135149:1"/>
+            <pb facs="tcp:135149:1"/>
+            <p> 
+               <hi>EZEKIEL'S</hi> PROPHESIE PARALLEL'D: OR, The Deſire of the Eyes taken away.</p>
+            <p>DELIVERED IN A SERMON, Preach'd at the FUNERALS Of the moſt Virtuous M<hi rend="sup">rs</hi> ELIZABETH COLE, Wife to <hi>ROBERT COLE</hi> Eſquire, At <hi>Wye</hi> in Kent, <hi>Nov.</hi> 26. MDCLI.</p>
+            <p>By <hi>SAMUEL BERNARD,</hi> Doctor in Divinity.</p>
+            <q>—A woman that feareth the Lord, <hi>SHE ſhall</hi> be praiſed. <bibl>Pro. 31. 30.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Andrew Crook.</hi> 1652.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:135149:2"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of monument commemorating Elizabeth Cole</figDesc>
+                  <p>Gen: Cap. 35—Vt Rachel</p>
+                  <p>Sic mortua est Elizabetha Cole</p>
+                  <p>No. XIV. M.DC L<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </p>
+                  <p>Cuius est haec</p>
+                  <p>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> diu Domine.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="memorials_for_Elizabeth_Cole">
+            <pb facs="tcp:135149:2"/>
+            <head>Gen. Cap. XXXV.<hi>—<g ref="char:V">Ʋ</g>t</hi> Rachel, <hi>Sic mortua eſt</hi> ELIZABETHA COLE, <hi>Novemb. XIV.</hi> MDCLI.</head>
+            <head type="sub">
+               <hi>Cujus eſt haec</hi> COLUMNA.</head>
+            <div type="elegy">
+               <head>Quam diu, Domine!</head>
+               <lg>
+                  <l>O mea ELIZABETHA!</l>
+                  <l>O Maritella mea <hi>ELIZABETHULA!</hi>
+                  </l>
+                  <l>O <hi>Deſiderium Oculorum meorum!</hi>
+                  </l>
+                  <l>Heu, quàm gravi me afflixit manu</l>
+                  <l>Te, Te mihi eripiens, Deus!</l>
+                  <l>Te,</l>
+                  <l>Quam nemo non amavit, qui noverit.</l>
+               </lg>
+               <lg>
+                  <l>Quàm amabilem Te fecerunt Pietas! Charitas!</l>
+                  <l>Quàm conjugalis Amor! illibata Vita!</l>
+                  <l>Quàm Gratiarum Cohors! quàm Formae decor!</l>
+                  <l>Virtutes certè omnes</l>
+                  <l>Tum Corporis, Tum Animi,</l>
+                  <l>Concertârunt Te reddere omnibus</l>
+                  <l>Pluſquam Commendatiſſimam:</l>
+                  <l>Sanè, qui Te ademptam non deplorat,</l>
+                  <l>Nec Suavitatem, nec Virtutem ipſam</l>
+                  <l>Extinctam deplorabit.</l>
+                  <l>Vale itaque, mea <hi>ELIZABETHULA,</hi>
+                  </l>
+                  <l>Moeſtiſſimus ingemit Maritus</l>
+                  <l>Vale, Vale,</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>ſque ad Reſurrectionem</l>
+               </lg>
+               <closer>
+                  <salute>Valeto.</salute>
+                  <signed>Moerens, Poſuit, &amp; Compoſuit Maritus Ipſe,</signed>
+               </closer>
+            </div>
+            <div type="memorial">
+               <p>HIc dormit ELIZABETHA, U<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <hi>Rob<hi rend="sup">ti</hi> Cole</hi> Arm<hi rend="sup">ri</hi>: <hi>Timo<hi rend="sup">thei</hi> Thornhill</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Filia unica: Quae animam puerpera Creatori ſuo religioſè reddidit, 14. Novemb. <hi>An. Do<g ref="char:cmbAbbrStroke">̄</g>.</hi> 1651. Aetatis 3<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Conjugii 10.</p>
+               <p>Reliquit Filiam <hi>Janam</hi> (Annorum oct Filium <hi>Richardum,</hi> Qui mox Ab ubere raptus, in ſinu Matris Conquieſcit.</p>
+               <p>Cujus dulci Memoriae, Sed nec minùs acerbae, (Eo magis acerbae, quia maximè dulci<g ref="char:punc">▪</g> Triſtiſſimus Maritus Sociale marmoravit Mnemoſynum.</p>
+               <pb facs="tcp:135149:3"/>
+            </div>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:135149:3"/>
+            <head>To my moſt Honoured Friend, ROBERT COLE (of <hi>Addington</hi> in Surrey) ESQUIRE.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am very ſenſible, how deep a Wound the taking away of Her, who was <hi>the Deſire of your eyes,</hi> made in your breſt; and therefore I have been very unwilling to preſent you with this Picture, leſt the Colours, with which it is drawn, ſhould renew the wound, and make it bleed afreſh: This was the only reaſon, that hitherto, I was ſo hardly brought to repreſent it to your view. But now, I begin to call to mind, that though the Originall was an incomparable piece, yet he that drew the Copy: did it with an unskilfull hand: I am content therefore, upon <hi>your Importunity,</hi> to let you caſt your eye upon it, in ſtead of a Foile: But I am very Confident withall, upon <hi>my Importunity,</hi> you will more eaſily ſuppreſſe it, and ſuffer it only to lye with<g ref="char:EOLhyphen"/>in your private walls, among your other Papers. It will be ſatisfaction enough for you, and for Her friends, to
+<pb facs="tcp:135149:4"/> Know, How much <hi>She</hi> deſerved, how much <hi>you</hi> deſired, and how much the <hi>Workman</hi> endeavoured, but was not able to perform. For my part, I am eaſily perſwaded both to pardon, and pleaſe my ſelf with that of the Poët,
+<q>In magnis voluiſſe ſat eſt,—</q>
+            </p>
+            <p>In things that are hard and difficult, The Will is to be accepted for the Deed: And if I can but purchaſe ſo much favour at your hands, you ſhall Challenge, what pro<g ref="char:EOLhyphen"/>portion you pleaſe, both in the ſincereſt Affections, and moſt Earneſt Devotions of</p>
+            <closer>
+               <dateline>Waddon <date>Dec. 2. 1652.</date>
+               </dateline>
+               <salute>(Sir)</salute>
+               <signed>Your moſt endeared Servant, SAM. BERNARD.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:135149:4"/>
+            <head>A SERMON Preached at the FUNERAL Of the Vertuous M<hi rend="sup">rs</hi> ELIZABETH COLE.</head>
+            <epigraph>
+               <bibl>EZEK. 24. 16.</bibl>
+               <q>Son of Man, behold, I take away from Thee the deſire of thine eyes with a ſtroke.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">M</seg>Y Sermon is like this Evening, very gloomy and ſtormy: And indeed, I muſt be your Petitio<g ref="char:EOLhyphen"/>ner (at this time) as well as your Preacher, That it may be lawfull for me ſo far to be a Time-ſerver, as to fit my Text unto the time. The occaſion of this meeting is ſad and ſorrow<g ref="char:EOLhyphen"/>full, and therefore I have choſen a ſad, and a ſor<g ref="char:EOLhyphen"/>rowfull Text to meet it, And in the ſame kind.</p>
+            <p>'Tis a prophecie, or a prediction of a great
+<pb n="2" facs="tcp:135149:5"/> loſs, the loſs of a precious Pearl, which the pro<g ref="char:EOLhyphen"/>phet had in his Keeping: And though it be dark and obſcure, as all Prophecies are at the firſt ſight; yet the Explication of two words, <hi>The deſire of thine Eyes,</hi> and <hi>the Stroke,</hi> here men<g ref="char:EOLhyphen"/>tioned, will acquaint you with the ſenſe of the <hi>Prophecie,</hi> and the reaſon of the <hi>Parallel.</hi>
+            </p>
+            <p>For the firſt. The Prophet ſhall be his own Expoſitor: The <hi>Deſire of his Eyes</hi> was his <hi>Wife;</hi> and the <hi>Stroke,</hi> by which ſhe was taken away, was <hi>Death:</hi> Look but into the 18<hi rend="sup">th</hi> verſe, and he tells you, <hi>He ſpake unto the People in the Mor<g ref="char:EOLhyphen"/>ning, and at Even his wife dyed;</hi> and ſo the Pro<g ref="char:EOLhyphen"/>phecie was fulfilled: Ezekiel is in a ſad condi<g ref="char:EOLhyphen"/>tion. His Prediction is proved a great Affliction; The loſs of his deareſt <hi>Wife.</hi>
+            </p>
+            <p>For the ſecond, The <hi>Parallel,</hi> we find even at our own doores: we have too juſt an Oc<g ref="char:EOLhyphen"/>caſion, to pick out this Text. But we muſt ſubmit to the <hi>Stroke,</hi> becauſe it ſtands ſo with His good pleaſure who works all things after the Counſell of his own will, <hi>Eph.</hi> 1. 11. <hi>I o<g ref="char:EOLhyphen"/>pened not my mouth,</hi> ſaith Holy David, <hi>becauſe thou</hi>
+               <note place="margin">Eph. 1. 11.</note> 
+               <hi>didſt it. Pſal.</hi> 39. 9. So it was in the Text: ſo it is here, <hi>Behold I take away from thee.</hi>
+               <note place="margin">Pſal. 39 9.</note>
+            </p>
+            <p>My Text is a very <hi>Winding Sheet,</hi> Or a <hi>Coffin,</hi> Containing in it, ſome dead Corps, and ready for the Burial; Let us look into it, and ſurvey thoſe
+<pb n="3" facs="tcp:135149:5"/> 
+               <hi>ſad Remaines,</hi> and we ſhall find many things very Conſiderable.</p>
+            <list>
+               <item>1 The Author, God; <hi>I.</hi>
+               </item>
+               <item>2 The Act, Taking away; <hi>I take away.</hi>
+               </item>
+               <item>3 The Patient, from whom; <hi>from Thee.</hi>
+               </item>
+               <item>4 The Object, what; <hi>The deſire of thine eyes.</hi>
+               </item>
+               <item>5 The Inſtrument with which, <hi>Death;</hi> That was the <hi>ſtroke.</hi>
+               </item>
+            </list>
+            <p>Every one of theſe, would furniſh us with a ſeverall Obſervation: but I conſider the time of the night, and muſt Remember at this time, the mortality of your hearing, and mine own ſpeaking; and therefore I will rather make bold to ſet limits to my own Meditations, then preſume to tire out your Patience. Give me leave only to Chooſe out two Doctrines, agreeable both to the <hi>Text,</hi> and the <hi>Time,</hi> and with ſome brief Ap<g ref="char:EOLhyphen"/>plication, to encourage us to the imitation of thoſe vertues, which we ſhall learne from this <hi>Excellent Patterne,</hi> that lies here incloſed in her Coffin; and the reſt, I will leave to your medi<g ref="char:EOLhyphen"/>tation: The firſt ſhall be this.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> 
+               <hi>A Mans wife is and ought to be eſteemed, the neareſt and deareſt delight to him, in the world.</hi>
+            </p>
+            <p>The warrant hereof, is in my Text, Where God himſelf cals her, the <hi>Deſire of her husbands eyes.</hi> There was never any thing dearer to our Savi<g ref="char:EOLhyphen"/>our then his Church. <hi>He Purchaſed it with his blood.</hi>
+               <pb n="4" facs="tcp:135149:6"/> 
+               <hi>Acts.</hi> 20. 28. What expreſſions of love, and deer<g ref="char:EOLhyphen"/>neſſe<note place="margin">Acts, 20. 28.</note> doth he uſe to her, <hi>Cant.</hi> 7. 6? And this is the<note place="margin">Cant 7. 6</note> Pattern he commends to the Husband; <hi>To love his wife, as Chriſt loved the Church. Eph.</hi> 5. 25.<note place="margin">Eph. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 25.</note>
+            </p>
+            <p>When God would expreſs his love and Re<g ref="char:EOLhyphen"/>gard to the Prophet <hi>Daniel,</hi> The Angel cals him<note place="margin">Dan. 10 11.</note> 
+               <hi>Iſh Chamudoth; A man of Deſires;</hi> Beloved, and deare<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> to God. So here the expreſſion of her dear<g ref="char:EOLhyphen"/>neſſe, is by the <hi>Deſire of the eye,</hi> from <hi>Chamod</hi> in the Originall, which implies an earneſt, and an ardent affection; <hi>Ubi amor ibi oculus,</hi> Where love is, it faſtens the eye; He muſt <hi>deſire,</hi> He muſt look upon nothing elſe under God, with equall delight, with equall Dearneſſe.</p>
+            <p>And deareſt ſhe is, in regard of a threefold Ob<g ref="char:EOLhyphen"/>ligation;</p>
+            <list>
+               <item>1. In regard of her Originall frame, and Com<g ref="char:EOLhyphen"/>poſition.</item>
+               <item>2. In regard of Gods Inſtitution of marriage, and the Covenant between them.</item>
+               <item>3. In regard of a gracious Diſpoſition wor<g ref="char:EOLhyphen"/>king in her.</item>
+            </list>
+            <p n="1">1. For the firſt, In the beginning ſhe was ta<g ref="char:EOLhyphen"/>ken out of man, <hi>Gen.</hi> 2. 22. And for ſo curious a<note place="margin">Gen. 2. 22.</note> frame, to make them male, and female, the whole Trinity enters into a conſultation about the com<g ref="char:EOLhyphen"/>poſure: <hi>Gen.</hi> 1. 26. 27. And when all is done,<note place="margin">
+                  <hi>Gen.</hi> 1. 26. 27.</note> that Curious piece, is Nothing elſe but a Piece
+<pb n="5" facs="tcp:135149:6"/> 
+               <hi>of his own fleſh: Gen.</hi> 2. 23. And therefore in Lo<g ref="char:EOLhyphen"/>ving<note place="margin">Gen: 2. 23.</note> his wife, he loves himſelf; <hi>Eph.</hi> 5. 28. <hi>Dear</hi> then in reſpect of her <hi>frame.</hi>
+            </p>
+            <p>Secondly, <hi>Deareſt</hi> ſhe muſt needs be, in regard of Gods <hi>Inſtitution of Marriage;</hi> and that mutual Cove<g ref="char:EOLhyphen"/>nant that he made between them. <hi>He brought her un<g ref="char:EOLhyphen"/>to the man;</hi> There's the Conjugall Knot, Tyed by<note place="margin">Gen. 22 2.</note> Almighty God himſelf, <hi>Gen.</hi> 22. 2. God is the Author of Marriage. And when he made the Match, He ordained it, by a perpetuall Decree, a neerer Tye, A dearer Relation, even then that of Parents; <hi>Therefore, ſhall a man leave Fa<g ref="char:EOLhyphen"/>ther, and Mother, and ſhall Cleave to his wife, and they ſhall be one fleſh, Gen.</hi> 2. 24. Nay, they <hi>Two ſhall</hi>
+               <note place="margin">Gen. 2. 24.</note> 
+               <hi>be one fleſh,</hi> ſaith our Saviour; <hi>Matth.</hi> 19. 5.<note place="margin">Math. 19. 5.</note> Though <hi>Two</hi> in <hi>perſon,</hi> yet <hi>one in fleſh, In nearneſs, and affection;</hi> Dear in reſpect of the Marriage bond, or Covenant.</p>
+            <p>Thirdly, <hi>Deareſt</hi> ſhe muſt be in regard of <hi>Graci<g ref="char:EOLhyphen"/>ous Diſpoſitions;</hi> For where grace moulds, and rules the heart, reformes the will, and ſanctifies the affections, This Cauſes Love indeed;</p>
+            <p>
+               <hi>Goodneſs,</hi> and <hi>Grace,</hi> is the object of love; where<g ref="char:EOLhyphen"/>ere we find it, we deſire it, we admire it; moſt of all in <hi>a Wife. Favour is deceitfull, and Beauty vain, but a woman that feareth the Lord, ſhe ſhall be</hi>
+               <note place="margin">Prov. 31. 30<g ref="char:punc">▪</g>
+               </note> 
+               <hi>Praiſed, Prov.</hi> 31. 30.</p>
+            <p>A <hi>Face</hi> will fail; But <hi>Grace</hi> is eternall. Age,
+<pb n="6" facs="tcp:135149:7"/> or a Diſeaſe, will wrinckle the ſmootheſt fore<g ref="char:EOLhyphen"/>head, and make furrowes in the Cheekes; But the Indowments of <hi>Grace,</hi> goe beyond the <hi>Grave,</hi> and are neither ſubject to rottenneſs nor to Cor<g ref="char:EOLhyphen"/>ruption; Such a woman while alive, the heart of her husband ſafely truſts in her, <hi>Prov.</hi> 31. 11.<note place="margin">Prov. 31. 11.</note> And even when the <hi>body</hi> is dead, their <hi>ſouls</hi> are ſtill glued together. Goodneſs is of an attrac<g ref="char:EOLhyphen"/>tive Vertue; <hi>Et figuram animi magis, quàm corporis, am<g ref="char:EOLhyphen"/>plectimur,</hi>
+               <note place="margin">Tacit. in vita Agr.</note> ſaith the wiſe Hiſtorian; There are im<g ref="char:EOLhyphen"/>braces, for the Picture of the mind, as well as of the Body. The Apoſtle propoſes a Catalogue of Holy men, and Gracious women; <hi>Heb.</hi> 11. 35. Honoured in their lives, to be imitated, re<g ref="char:EOLhyphen"/>membred, admired after their Deaths.</p>
+            <p>A <hi>Gracious Diſpoſition,</hi> is a deſireable piece, it deſerves love; And then tell me, Is it not pity to part with ſuch a <hi>Body,</hi> in which dwells <hi>ſuch a ſoul?</hi> It is indeed; But there is a time, when the Creator may take in pieces this goodly Frame, of his own making; When he that <hi>made</hi> the <hi>Match,</hi> may break the Match; and loſe the bond, and Command a Divorce; When the Author of all grace, may Challenge, and call for his own again, and no wrong to any.</p>
+            <p>So it pleaſed God here in the Text; <hi>Behold I take away from thee the deſire.</hi>
+            </p>
+            <p>So that a <hi>ſecond</hi> Obſervation may be this,
+<pb n="7" facs="tcp:135149:7"/> which ſhall take in all the Parts.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>2</label> 2 <hi>God is pleaſed often times, to deprive his Deareſt Children of that, which they love moſt, which is dear<g ref="char:EOLhyphen"/>eſt unto them, and that by ſome heavy affliction, even Death it ſelf.</hi>
+            </p>
+            <list>
+               <item>1 God is he that doth it; <hi>The word of the Lord</hi> came unto me, ſaying, <hi>I;</hi> that is, <hi>God.</hi>
+               </item>
+               <item>2 Here is Depriving: <hi>I will take away.</hi>
+               </item>
+               <item>3 His deareſt Children; The <hi>Prophet was one;</hi> yet from <hi>Thee.</hi>
+               </item>
+               <item>4 That which is deareſt unto them: <hi>The de<g ref="char:EOLhyphen"/>ſire of thine eyes;</hi> That muſt needs be deare.</item>
+               <item>5 By ſome heavy affliction, <hi>A Stroke;</hi> and that <hi>Stroke</hi> was <hi>Death.</hi>
+               </item>
+            </list>
+            <p>The Text is full, and fitt; ye ſhall ſee it con<g ref="char:EOLhyphen"/>firmed by Scripture-Proofes. <hi>Abraham</hi> loved his <hi>Sarah</hi> dearly; and ſhe deſerved it; She had been a dutifull and a loving Wife; So S<hi rend="sup">t</hi> Peter Commends her, 1. <hi>Pet.</hi> 3. 6. and ſhee had brought<note place="margin">1 Pet. 3 6.</note> him forth a bleſſed Son, the heir of the Promiſe; yet, Death muſt deprive him of his <hi>deareſt Sa<g ref="char:EOLhyphen"/>rah. Gen.</hi> 23. 2.<note place="margin">Gen. 23. 2.</note>
+            </p>
+            <p>
+               <hi>Jacob</hi> loved <hi>Rachel</hi> ſo tenderly, that his ſe<g ref="char:EOLhyphen"/>ven years ſervice for her, ſeemed but a few dayes to him, <hi>for the love that he had to her,</hi> ſaith the Text, <hi>Gen.</hi> 29. 20. Yet he muſt not carry her into Egypt<note place="margin">Gen. 29. 20.</note> with him; but ſhe muſt die <hi>in travail;</hi> And as ſoon as ſhe is delivered of her <hi>Benoni,</hi> The ſon
+<pb n="8" facs="tcp:135149:8"/> of her ſorrow, his fathers <hi>Benjamin, Jacob</hi> muſt loſe his <hi>deareſt Rachel, Gen.</hi> 35. 18.<note place="margin">Gen. 35. 18.</note>
+            </p>
+            <p>To inſtance in other Relations; <hi>David</hi> a man according to Gods own heart, had a Son whom he Paſſionately loved, for whom he would have died himſelf; ſo dear he was to him; yet he muſt loſe this <hi>Deareſt ſon Abſolom,</hi> 2 <hi>Sam.</hi> 18.<note place="margin">2. Sam. 18. 33.</note> 
+               <hi>ver.</hi> 33.</p>
+            <p>Look upon <hi>Joſiah,</hi> the good <hi>Joſiah,</hi> the beſt of Kings; <hi>Never any like him before, nor after,</hi> 2 <hi>Kings</hi> 23. 25. The Scriptures ſtile him the<note place="margin">2 Kings. 23. 25.</note> 
+               <hi>Breath of our Noſtrils;</hi> yet the Prophet complains there, <hi>So good a King was taken in their Pits; Lam.</hi>
+               <note place="margin">Lam. 4. 20.</note> 4. 20. And that beſt of Kings, that was ſo deare to his people, whom that holy Prophet and the people ſo lamented, 2 <hi>Chron.</hi> 35. 25. was de<g ref="char:EOLhyphen"/>prived<note place="margin">2. Chron. 35. 25.</note> of his life, and that by a violent death; 2 <hi>Chron.</hi> 35. 23.<note place="margin">2 Chron. 35. 23.</note>
+            </p>
+            <p>It ſeems by theſe Stories, the beſt of men, the beſt of Kings, have a ſhare in the greateſt af<g ref="char:EOLhyphen"/>flictions, have loſt their <hi>Deareſt</hi> Wives, their <hi>Deareſt Lives.</hi>
+            </p>
+            <p>The Scripture doth ſet forth holy <hi>Job</hi> to the<note place="margin">Job 1. 14. 15.</note> life, a chief example, a very Map of miſery, Rob<g ref="char:EOLhyphen"/>bed of his Cattell, Bereaved of his goods, De<g ref="char:EOLhyphen"/>prived of his ſervants, Spoiled of his Children, One in the neck of another, and <hi>all in a day.</hi> Himſelf expoſed to ſcorn, and Contempt, to
+<pb n="9" facs="tcp:135149:8"/> Pain, and ſhame, and none to comfort him, <hi>Job</hi> 1. 14, 15</p>
+            <p>I could here tell you of the Martyrs, the Pro<g ref="char:EOLhyphen"/>phets,<note place="margin">Heb. 11. 37.</note> 
+               <hi>Their righteous blood;</hi> So the Saviour of the world cals it, <hi>Matth.</hi> 23. 35. and tells us, it <hi>was</hi>
+               <note place="margin">Matth. 23. 35</note> 
+               <hi>ſhed upon the earth.</hi>
+            </p>
+            <p>The Apoſtles, I think <hi>near</hi> and <hi>dear</hi> to God, Deſigned to the ſhambles. <hi>For thy ſake are we Killed all the day long, and are counted as ſheep for the ſlaughter: Rom.</hi> 8. 36. Nay Chriſt himſelf, the<note place="margin">Rom. 8. 36.</note> bleſſed ſon of the eternall God, The <hi>Captain of our ſalvation,</hi> He <hi>was made</hi> perfect through <hi>ſuffe<g ref="char:EOLhyphen"/>rings: Heb.</hi> 2. 10.<note place="margin">Heb. 2. 10.</note>
+            </p>
+            <p>'Tis a Maxime in the Scripture, Judgement muſt begin at <hi>the Houſe of God,</hi> 1 <hi>Pet.</hi> 4. 17. <hi>I</hi>
+               <note place="margin">1 Pet. 4. 17.</note> 
+               <hi>have forſaken my houſe,</hi> ſaith God himſelf: <hi>I have given the dearly beloved of my ſoul into the hands of her e<g ref="char:EOLhyphen"/>nemies, Jer.</hi> 12. 7. 'Tis a rule that never failes,<note place="margin">Jer. 12. 7.</note> 
+               <hi>Whom I love, I Correct, Rev.</hi> 3. 19. The truth of the<note place="margin">Rev. 3. 19.</note> Doctrine ſtands good, and warrantable, <hi>God is pleaſed oftentimes to deprive his Children of that which is deareſt unto them,</hi> by ſome <hi>heavy affliction, even Death it ſelf.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Reaſ"/> And there is a very good reaſon for Gods dea<g ref="char:EOLhyphen"/>ling thus with his Children, for depriving them of their delights. Affliction in any kind, is very good <hi>Phyſick</hi> in <hi>both</hi> the Parts, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; 'Tis <hi>Reſtoring Phyſick</hi> and <hi>Preventing Phy<g ref="char:EOLhyphen"/>ſick.</hi>
+               <pb n="11" facs="tcp:135149:9"/> Firſt it reſtores, and ſets us right, cures our diſeaſes; <hi>Before I was afflicted I went aſtray:</hi> but now <hi>have I kept thy word: Pſal.</hi> 119. 67. God is<note place="margin">Pſal. 119. 67.</note> wont to puniſh his deareſt Children, to bring them home, when they wander out of the way, and forget their duties; <hi>In their affliction they will ſeek me Early: Hoſea</hi> 5. 15. The beſt of Gods Saints<note place="margin">Hoſ. 5. 15.</note> have their droſſe, It muſt be purged out; and <hi>Tribulation</hi> is as the <hi>Fire</hi> to the <hi>Gold,</hi> 1 <hi>Pet.</hi> 1. 7. <hi>He ſhall Purifie the ſons of Levi, and Purifie them as</hi>
+               <note place="margin">1 Pet. 1. 7.</note> 
+               <hi>Gold, that they may offer an offering in Righteouſneſs, Mal.</hi> 3. 3. No man is ſo good, but he hath ſome ſin: God will Purge him, and puniſh him here,<note place="margin">Mal. 3 3.</note> that he may pardon him hereafter. <hi>When we are Judged, we are Chaſtened of the Lord, that we may not be condemned with the world,</hi> 1 <hi>Cor.</hi> 11. 32.</p>
+            <p>Secondly, tis <hi>preventing Phyſick:</hi> It preſerves<note place="margin">1 Cor. 11. 32.</note> us from ſins to come; <hi>Tis good for me that I have been afflicted, that I might learne thy ſtatutes, Pſal.</hi> 119. 71. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith the Greek Proverb: E<g ref="char:EOLhyphen"/>very<note place="margin">Pſal. 119. 71</note> affliction is our inſtruction, ſaith Divine <hi>Bernard.</hi> Tis like <hi>Myrrh,</hi> that preſerves from Pu<g ref="char:EOLhyphen"/>trefaction; and like <hi>Salt,</hi> that prevents Corrup<g ref="char:EOLhyphen"/>tion.<note place="margin">Bern.</note> So <hi>Affliction</hi> keeps men exerciſed, and ſweet, affraid to entertain any ſin.</p>
+            <p>Thirdly, God wil thus demonſtrate his <hi>Impar<g ref="char:EOLhyphen"/>tiality.</hi> Thoſe that are neareſt to him ſhall ſmart, and taſte of the rod, ſhall have their loſſes, that
+<pb n="10" facs="tcp:135149:9"/> they may not preſume of Impunity: <hi>You only have I known of all the families of the earth; Therefore will I puniſh you for all your iniquities. Amos</hi> 3. 2.</p>
+            <div type="general_application">
+               <p>I will now make ſome Application.<note place="margin">Amos 3. 2.</note>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>1</label> The firſt ſhall be; for <hi>Conviction of the wicked.</hi> They muſt needs be convinced, and Confeſſe, That if God deale thus with his <hi>Freinds,</hi> then ſurely he will not ſpare his <hi>Enemies.</hi>
+               </p>
+               <p>
+                  <hi>If Judgment begin at the houſe of God,</hi> what <hi>ſhall be the end of them that obey not the Goſpell of God!</hi> Tis the Apoſtles inference: and it is a ſtrong one, 1. <hi>Pet.</hi> 4. 17. If he be ſo ſharp to thoſe in his favour, how much ſorer will he be to thoſe in his diſplea<g ref="char:EOLhyphen"/>ſure?<note place="margin">1 Pet. 4. 17.</note>
+               </p>
+               <p>You ſhall ſee them threatned to the purpoſe, <hi>Jer.</hi> 46. 23. and indeed, it is an argument of an heavier<note place="margin">Jer. 46. 23.</note> doom: I wil go no farther then my Text for a Con<g ref="char:EOLhyphen"/>firmation; This of <hi>Ezekiel,</hi> is a ſigne to the houſe of Iſrael of a farther meaning; And they demand it of him, <hi>v.</hi> 19. and at the 21 <hi>verſe</hi> ye may ſee his Application, <hi>Thus ſaith the Lord, Behold</hi> I <hi>will Prophane my Sanctuary, the excellencie of your ſtrength, the deſire of your eyes,</hi> and that <hi>which your ſoul pities, and your ſons, and yours daughters, whom ye have left, ſhall periſh by the ſword.</hi>
+               </p>
+               <p>Now it is not only, the poor Prophet that ſhall be puniſht; but the Judgment is more ge<g ref="char:EOLhyphen"/>nerall and more grievous; <hi>They had mocked the</hi>
+                  <pb n="12" facs="tcp:135149:10"/> 
+                  <hi>meſſengers of God, deſpiſed his word, and miſ-uſed his Prophets;</hi> 2 <hi>Chron.</hi> 36. 16. When he had <hi>ſent his</hi>
+                  <note place="margin">2 Chro. 36. 16</note> 
+                  <hi>Meſſengers, riſing up betimes, and ſending,</hi> 2 <hi>Chron.</hi> 36, 15. When they had more means of ſalvation then all other nations: <hi>A Glorious Temple, Righ<g ref="char:EOLhyphen"/>teous Judgments, and Statutes, Deut.</hi> 4. 8. which<note place="margin">Deuter. 4. 8.</note> if a man doe, <hi>he ſhould live in them, Ezek.</hi> 20, 11.<note place="margin">Ezek. 20. 11.</note> Yet all thoſe they neglected, and rejected, though they boaſted of them: And therefore their Re<g ref="char:EOLhyphen"/>ligion, their Chiefeſt glory, ſhall be taken a<g ref="char:EOLhyphen"/>way, their Temple Prophaned, their Chur<g ref="char:EOLhyphen"/>ches diſhonourd, their Sacraments diſgraced, and all in a Confuſion.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>2</label> Secondly, If God ſpare not his deareſt ſervants, if he puniſh them with the loſſe of what is <hi>Dear<g ref="char:EOLhyphen"/>eſt</hi> unto them: this may ſerve for <hi>Caution,</hi> and <hi>Counſell;</hi> Not to paſſe our cenſure preſently, and condemn all for Reprobates, upon whom God laies his hand; <hi>Jobs</hi> freinds were too forward in that kind, and therefore juſtly blamed; <hi>Job</hi> 42, 7. Right good men, as you have heard,<note place="margin">Job. 42 7.</note> have had their loſſes; their heads full of ſorrow; their hands full of hurts; Many a good woman made a <hi>wofull widow,</hi> and <hi>loſt her deareſt husband; Ma<g ref="char:EOLhyphen"/>ny a good man,</hi> loſt <hi>his deareſt wife; Ezekiel</hi> a Prophet for one: Parents rob'd of their Children, <hi>Holy</hi> men <hi>ſpoyld of their Goods; Heb.</hi> 10, 34<g ref="char:punc">▪</g> God doth<note place="margin">Heb. 10. 34.</note> not diſtinguiſh the Righteous from the Repro<g ref="char:EOLhyphen"/>bates,
+<pb n="13" facs="tcp:135149:10"/> neither by proſperitie, nor adverſity in this life: <hi>Eccleſ.</hi> 9, 2. <hi>Ezekiel</hi> hath his ſhare, a<note place="margin">Eccl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ. 9. 2.</note> Righteous Prophet, in a grievous affliction, a great loſſe.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>3</label> Thirdly, Doth God deale thus with his Chil<g ref="char:EOLhyphen"/>dren, ſubject them to loſſes? then this may ſerve for <hi>direction</hi> in all <hi>Changes,</hi> and <hi>Chances,</hi> in all our <hi>Croſſes,</hi> and <hi>Loſſes,</hi> to looke unto him from whence <hi>the ſtroke</hi> commeth: to ſubmit all to the good pleaſure of our good God.</p>
+               <p>He ſends us what ever we enjoy, Parents, Chil<g ref="char:EOLhyphen"/>dren, Husbands, Wives, Health, and Wealth, Lands, and Life; <hi>David</hi> refers us to the foun<g ref="char:EOLhyphen"/>tain; <hi>All of his bounty,</hi> 1 <hi>Chron.</hi> 29. 12, 16. And he<note place="margin">1 Chr. 29. 12. 16.</note> may call for any, or all again, when he pleaſeth; whatever we doe, let us doe this, Reſign all without repining; ſo did <hi>Job:</hi> We return but his own, The <hi>Lord giveth, and The Lord taketh away, Bleſſed be the name of the Lord;</hi> When he had loſt all, nothing out of his mouth, but <hi>Submiſſion</hi> and <hi>Benediction, Job</hi> 1. 21.<note place="margin">Job 1. 21</note>
+               </p>
+               <p>So did old Eli; when he was threatned with the deſtruction of his houſe, and Poſterity, he ſub<g ref="char:EOLhyphen"/>mits with patience, and kiſſes the rod with an humble return, <hi>It is the Lord;</hi> let <hi>him do what ſeemeth him good,</hi> 1 <hi>Sam</hi> 3. 18.<note place="margin">1 Sam. 3. 18.</note>
+               </p>
+               <p>So did Holy David, when he was in danger to loſe a kingdome, and was driven from the <hi>De<g ref="char:EOLhyphen"/>ſire</hi>
+                  <pb n="15" facs="tcp:135149:11"/> 
+                  <hi>of his eyes,</hi> the Ark of God, and his Chiefeſt City: He commits himſelf, and his cauſe to Gods diſpoſall: <hi>If I ſhall find favour in the eyes of the Lord, he will bring me again, and ſhew me both it and his habitation; But if he thus ſay, I have no de<g ref="char:EOLhyphen"/>light in thee; Behold here I am, let him doe unto me as it ſeemeth good unto him,</hi> 2 <hi>Sam.</hi> 15. 25.<note place="margin">28. m. 15. 25.</note>
+               </p>
+               <p>So did <hi>Davids</hi> Lord, our bleſſed Saviour, when he was to take down that <hi>bitter cup,</hi> to undergoe the <hi>Pain,</hi> and <hi>ſhame</hi> of the <hi>Croſſe;</hi> though it was bitter to ſwallow, and heavy to bear; he com<g ref="char:EOLhyphen"/>plies with his Fathers decree, <hi>Not my will, but thine be done, Luke</hi> 22. 42. <hi>Perdidit vitam, ne perderet</hi>
+                  <note place="margin">Luke 22. 42.</note> 
+                  <hi>obedientiam,</hi> ſaith S<hi rend="sup">t</hi> 
+                  <hi>Auguſt. He was content to loſe</hi>
+                  <note place="margin">Auguſtine.</note> 
+                  <hi>his life, rather then loſe his Loyalty, and bis obedience to his Father;</hi> And when <hi>he was reviled, reviled not again; when he ſuffered, he threatned not, but com<g ref="char:EOLhyphen"/>mitted himſelf to him that judgeth righteouſly;</hi> 1 <hi>Pet.</hi>
+                  <note place="margin">1 Pet. 2 23.</note> 2. 23.</p>
+               <p>I confeſſe the parting of a man from his Wife, is like the parting of the ſoul from the body; And there is a time when a man muſt leave <hi>Father and Mother for his wife;</hi> But here is a neerer tye be<g ref="char:EOLhyphen"/>tween <hi>Chriſt</hi> and thy <hi>Soul,</hi> then between a <hi>Man</hi> and his <hi>Wife;</hi> why? <hi>he muſt leave his wife, and all for him; Mark</hi> 10. 29. and <hi>ſhall never repent it, Mark</hi> 10. 30.<note place="margin">Mar. 10. 29, 30</note>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>4</label> For <hi>Comfort</hi> therefore in the laſt place, to the
+<pb n="14" facs="tcp:135149:11"/> Children of God amidſt all their loſſes: yee have heard, His deareſt ones, his favorites he doth excerciſe under the Croſſe, and uſes to the rod; Why ſo much the better: It is an argu<g ref="char:EOLhyphen"/>ment he hath the more care of you, as his <hi>Chil<g ref="char:EOLhyphen"/>dren: No ſon he doth receive, but he chaſtens, Hebr.</hi>
+                  <note place="margin">Heb, 12. 6, 8.</note> 12. 6. Nay, we are no <hi>Children</hi> but <hi>Baſtards, with<g ref="char:EOLhyphen"/>out</hi> it, <hi>Heb.</hi> 12. 8. Nay it brings us neerer to God: <hi>All things work together for their good that love God,</hi>
+                  <note place="margin">Rom. 8 28.</note> 
+                  <hi>Rom.</hi> 8. 28. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſaith S<hi rend="sup">t</hi> Chryſoſtome; our<note place="margin">
+                     <hi>Chryſ. in</hi> Rom. 8.</note> very <hi>Greviances, and afflictions:</hi> though Tribula<g ref="char:EOLhyphen"/>tion, and Poverty, and fetters, and famine, and death, or whatſoever elſe, ſaith the Golden-mouthed Doctor, He makes no exception. Ne<g ref="char:EOLhyphen"/>ver think they are tokens of his diſpleaſure, of ſeparation: They are <hi>Pignora amoris, Pawnes of his love;</hi> I report me to S<hi rend="sup">t</hi> Paul for a witneſſe; 'Tis the Challenge of that great Doctor of the Gentiles; <hi>Who ſhall ſeparate us from the love of Chriſt? Rom.</hi> 8. 35. <hi>ſhall Tribulation, or Diſtreſſe, or Per<g ref="char:EOLhyphen"/>ſecution,</hi>
+                  <note place="margin">Rom. 8. 35.</note> 
+                  <hi>or Famine, or Nakedneſſe, or Perill, or the Sword? Nay in all theſe things we are more then con<g ref="char:EOLhyphen"/>querours through him that loved us;</hi> And therefore in this Comfort and Confidence he triumphs; <hi>I am perſwaded that neither Death, nor Life, nor Angels, nor Principalities, nor any other Creature ſhall ever be able to ſeparate us from the love of God, which is in Chriſt Jeſus our Lord, Rom.</hi> 8. 39.<note place="margin">Rom. 8. 39.</note>
+               </p>
+               <pb n="16" facs="tcp:135149:12"/>
+               <p> Well then; Hath he taken away thy goods? why he can <hi>reſtore them double,</hi> as he did to <hi>Job, Job</hi> 42. 10. Hath he taken away thy Children? why, God can give thee more, or preſerve them to thy Comfort with himſelfe, ſo that thou ſhalt ſay, they are not loſt; And indeed, I remember S<hi rend="sup">t</hi> 
+                  <hi>Gre<g ref="char:EOLhyphen"/>gory</hi>
+                  <note place="margin">
+                     <hi>Gregor. Moral.</hi> 35. <hi>cap.</hi> 11.</note> gives the reaſon, why God Almighty, when he <hi>doubled Jobs</hi> ſubſtance in his ſheep, and his camels, and his oxen, yet he gave him but juſt <hi>ſo many Children</hi> as he had taken from him; be<g ref="char:EOLhyphen"/>cauſe his dead Children were not <hi>loſt,</hi> but in <hi>Gods Keeping,</hi> in a better life.</p>
+               <p>Hath he taken away thy <hi>Parents?</hi> why, <hi>when my Father and my mother forſake me, the Lord takes me up, Pſal.</hi> 27. 10. Hath he taken away thy <hi>Huſ<g ref="char:EOLhyphen"/>band?</hi>
+                  <note place="margin">Pſal. 27. 10.</note> 
+                  <hi>He is the Father of the Fatherleſſe, and the Judg of the widows, Pſal.</hi> 68. 5. Hath he taken away thy<note place="margin">Pſal. 68. 5.</note> 
+                  <hi>Wife,</hi> thy Comforter, and thy Companion? Why, God <hi>is all in all; Thy Wife, Thy Husband, Thy Father,</hi> Thy Comforter, and thy Companion; Our beſt refuge, Our greateſt ſtrength, <hi>a very preſent help in time of trouble, Pſal.</hi> 46. 1. Let that comfort thee.</p>
+            </div>
+            <div type="particular_application">
+               <p>And now I have done with my Text, and the generall application, give me leave to apply more particularly, and as I told you in the beginning, to find it at our own doores; What ye have heard with your <hi>ears,</hi> you ſee here preſented to your <hi>eyes;</hi> Fixe them upon <hi>that Coffin,</hi> upon <hi>thoſe Blacks</hi> and
+<pb n="17" facs="tcp:135149:12"/> 
+                  <hi>Eſchutcheons,</hi> and they will lead you from the <hi>The<g ref="char:EOLhyphen"/>ſis</hi> to the <hi>Hypotheſis,</hi> from the <hi>Prophecie</hi> to the <hi>Parallel.</hi>
+               </p>
+               <p>That <hi>Death,</hi> which you heard of in the Text, you ſee in her proper Colours: Behold the <hi>Stroke</hi> ſhe gave, The <hi>wounds</hi> ſhe made, yet bleeding freſh, and I fear nothing ſo much, as that while I ſeek to cloſe them, the Commemoration of thoſe Vertues, which did ſhine in this <hi>Deare deceaſed,</hi> ſhould make them Wider.</p>
+               <p>You heard, a <hi>Wife</hi> was the <hi>neereſt,</hi> the <hi>deareſt delight to her husband in the world; The deſire of his eyes:</hi> So it was here; And that will be <hi>your joy.</hi> Again you heard, it pleaſeth God oftentimes to deprive his deareſt Children of that their deareſt delight, by the <hi>Stroke of Death;</hi> as he uſes to do, ſo he hath done here; And that will be <hi>your ſorrow.</hi>
+               </p>
+               <p>For the <hi>firſt,</hi> I muſt tel you, I ſhall preſent you with a <hi>ſhadow,</hi> with a <hi>Picture</hi> of a moſt hea<g ref="char:EOLhyphen"/>venly Soul; which though it dwelt in an earthly body, was right dear indeed, unto her Husband; and that body though now a liveleſs Corps, I may boldly ſay, <hi>The deſire of his eyes, in all three reſpects.</hi>
+               </p>
+               <p>Firſt in reſpect of the <hi>Originall frame</hi> and <hi>Com<g ref="char:EOLhyphen"/>poſure.</hi> God had made her of the ſame mould, ſo that he look'd upon her as a piece of his own fleſh<g ref="char:punc">▪</g> And the great workman of heaven and
+<pb n="18" facs="tcp:135149:13"/> earth, had done his part ſo well, that there need<g ref="char:EOLhyphen"/>ed no Art to perfect Nature, or ſupply any de<g ref="char:EOLhyphen"/>fect; But her own Beauty, and lovely Propor<g ref="char:EOLhyphen"/>tion, had power both to procure, and Continue her Husbands Affection. To make her the more deſireable, ſhe was of no baſe mettal, but Ex<g ref="char:EOLhyphen"/>tract, and derived from a Noble and an ancient family, the memory of ſome whereof was pre<g ref="char:EOLhyphen"/>cious in this Place. But I remember withall what the wiſe Roman hath upon record,
+<q>
+                     <l>—Genus et proavos, et quae non fecimus ipſi,<note place="margin">
+                           <hi>Ovid. Met. Lib.</hi> 13.</note>
+                     </l>
+                     <l>Vix ea noſtra voco.—</l>
+                  </q>
+               </p>
+               <p>Our pedigrees, and Noble bloud, we are be<g ref="char:EOLhyphen"/>holden to our fore-fathers for, rather then our ſelves. I paſſe them over, and come to the next.</p>
+               <p>Secondly therefore, ſhe was deare unto him, <hi>The deſire of her husbands eys,</hi> In reſpect of the <hi>mar<g ref="char:EOLhyphen"/>riage Knot, the mutuall Covenant between them,</hi> Gods own Inſtitution, under which condition, as they had choſen one another out of mutuall Affecti<g ref="char:EOLhyphen"/>on, ſo they did look upon one another no lon<g ref="char:EOLhyphen"/>ger <hi>as two, made of the ſame mould,</hi> as all mankind are in generall; <hi>but they two one fleſh: Their wil<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s one, their deſires the ſame;</hi> Their ſouls linkt together: That's true love indeed: To chuſe, and refuſe the ſame things: <hi>Idem nolle et velle ea demum</hi>
+                  <note place="margin">Saluſt. Conjur. Cat.</note> 
+                  <hi>perfecta eſt Amicitia. This is the true nearneſs, The</hi>
+                  <pb n="19" facs="tcp:135149:13"/> 
+                  <hi>only dearneſs,</hi> ſaith the Hiſtorian.</p>
+               <p>And indeed I have often heard the Husband ſay, which I cannot but mention, That there was never any contention or Controverſie be<g ref="char:EOLhyphen"/>tween them, but only one; But it was a very heavenly one, a moſt bleſſed and happy one; And that was this, <hi>Which of the Two ſhould love one a<g ref="char:EOLhyphen"/>nother moſt.</hi> 'Tis worthy your imitation, And that which makes the ſtate of marriage a Com<g ref="char:EOLhyphen"/>fortable life.</p>
+               <p n="3">3. But to come to that which is the Crown of all the reſt: She was the <hi>deſire of her husbands eyes,</hi> and <hi>of his heart too:</hi> very <hi>dear</hi> unto him, in regard of her <hi>Gracious diſpoſition.</hi> And here I ſhall take the boldneſſe to tell you, that I ſhall deliver no<g ref="char:EOLhyphen"/>thing upon the Information of others, or un<g ref="char:EOLhyphen"/>certain reports, but what I have obſerved upon mine own knowledge, and long acquaintance; And I well remember the Place where I ſtand, and the Perſon that I ſuſtain; And though I am a Stranger, yet I beſeech ye, beleeve my Pro<g ref="char:EOLhyphen"/>feſſion.</p>
+               <p>I never loved to Proſtitute either my tongue or the Pulpit to flatter the living, or praiſe the dead, that were unworthy in their lives.</p>
+               <p>But truely, Beloved, when Gods graces are e<g ref="char:EOLhyphen"/>minent, and exemplary in his Children; they are not to be concealed, that Poſterity may be
+<pb n="20" facs="tcp:135149:14"/> encouraged in the imitation of ſuch virtues, and God, the Author, glorified in ſuch Saints.</p>
+               <p>Thus S<hi rend="sup">t</hi> 
+                  <hi>Ambroſe</hi> honoured <hi>Theodoſius;</hi> Thus <hi>Gregory Nazianzen</hi> remembred <hi>Athanaſius, Cypri<g ref="char:EOLhyphen"/>an,</hi> and S<hi rend="sup">t</hi> 
+                  <hi>Baſil;</hi> Thus S<hi rend="sup">t</hi> 
+                  <hi>Jerome</hi> commended <hi>Marcella, Bleſilla,</hi> and <hi>other holy and Religious La<g ref="char:EOLhyphen"/>dies</hi> at their Funeralls.</p>
+               <p>And we doe it not without good warrant; <hi>A woman that fears the Lord, ſhe ſhall be Praiſed, Prov.</hi> 31. 30. 'Tis Scripture; <hi>Bleſſed are the Dead, which</hi>
+                  <note place="margin">Prov. 31. 30.</note> 
+                  <hi>dye in the Lord:</hi> and we may beleeve the witneſs; <hi>Even ſo ſaith the Spirit;</hi> for they <hi>reſt from their labours, and their works follow them:</hi> they follow her indeed,<note place="margin">Rev. 14. 13.</note> and <hi>praiſe her in the gates, Prov.</hi> 31. 32.<note place="margin">Prov. 31. 32.</note>
+               </p>
+               <p>Firſt, as there had been great care in her <hi>Edu<g ref="char:EOLhyphen"/>cation,</hi> ſo God had endowed her with a great meaſure of Grace, both to approve and apply all outward acceſſories, to the attaining of the great and Principall End, The <hi>Knowledge of God,</hi> and <hi>Salvation of her ſoul.</hi>
+               </p>
+               <p>It is a great argument of a moſt heavenly mind, and I obſerve it to <hi>her honour.</hi> I never came to ſee her, either in the City or Country, but as S<hi rend="sup">t</hi> 
+                  <hi>Hie<g ref="char:EOLhyphen"/>rom</hi> writes of that noble Lady <hi>Bleſilla, Semper</hi>
+                  <note place="margin">
+                     <hi>Hier. T.</hi> 1. <hi>de. abit. Bleſ.</hi>
+                  </note> 
+                  <hi>aut prophetam, aut Evangelium in manibus;</hi> I found her with a <hi>Bible,</hi> or ſome good book in her hands, of which ſhee was able readily to give you a good accompt of her reading.</p>
+               <pb n="21" facs="tcp:135149:14"/>
+               <p> Secondly, Where the fear of the Lord is ſeated in the heart, there can be no <hi>Virtue,</hi> no <hi>Grace</hi> wan<g ref="char:EOLhyphen"/>ting; And truely, <hi>Religion</hi> had ſo furniſht her with all kind of goodneſſe, that ſhe made her <hi>life deſired,</hi> and <hi>her death honoured;</hi> She was not contented with a narrow ſcantling of grace, or a ſingle Virtue, but I muſt tell you, There was a <hi>ſweet conjunction,</hi> and a <hi>Cohabitation</hi> of all, moral Virtues, and Divine Graces in her breſt. <hi>Religion</hi> that I named before, the root of all, had taken Poſſeſſion of her <hi>Heart; Charity</hi> of her <hi>Hands;</hi> Thoſe <hi>fruits of the ſpirit, Joy, and Peace, and long-ſuffering,</hi>
+                  <note place="margin">Gal. 5 22.</note> heavenly Patience, Gentleneſs, Good<g ref="char:EOLhyphen"/>neſs, Faith, Meekneſs, Temperance, had fitted her for the Company of the Lambe; <hi>Modeſty, the Grace of women, and the honour of the ſexe. was one of her naturall endowments.</hi> Ye might eaſily know her to be one of the <hi>daughters of Sarah,</hi> by her very dreſs, her <hi>inward adorning her ſelf,</hi> as S<hi rend="sup">t</hi> 
+                  <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> cals it. <hi>Her Chaſt converſation coupled with fear,</hi> 1. <hi>Pet.</hi> 3. 2. The Ornament of a meek and a<note place="margin">1 Pet. 3. 2.</note> quiet Spirit. The Ornament of thoſe Holy wo<g ref="char:EOLhyphen"/>men, that truſted in God; as the Apoſtle again, 1. <hi>Pet.</hi> 3. 4, 5. The Ornament of obdience, of<note place="margin">4, 5.</note> ſubjection, the <hi>wives Ornament,</hi> 1. <hi>Pet.</hi> 3. 5. 6. That<note place="margin">5, 6.</note> if there were nothing elſe, ſhe muſt for this be the <hi>deſire of her Husbands eyes, The Joy of his Heart.</hi>
+               </p>
+               <pb n="22" facs="tcp:135149:15"/>
+               <p> The time will not ſuffer me to tell you of her ſweet and winning behaviour, her kind and Courteous Carriage; No Rancour in her heart, no Revenge in her hands; The Language of her tongue was <hi>Bleſsing,</hi> and the fruit of her lips, were <hi>Prayers</hi> and <hi>Devotion.</hi>
+               </p>
+               <p>And as ſhe was a <hi>Saint her ſelf,</hi> ſo it was her ſtudy to make <hi>more;</hi> Eſpecially, her <hi>dear and on<g ref="char:EOLhyphen"/>ly daughter,</hi> whom ſhe did ſo ſeaſon with the ſame liquor in thoſe tender years, that I be<g ref="char:EOLhyphen"/>leeve ſhe will ſavour the better of it ever after; Prove another Saint.</p>
+               <p>I ſhall not acquaint you (though ſhe was but little) of her ſweet taking Carriage; Habituated (as it were) in her by her Parents Pattern, and Prudent regards of her; for that was the obſerva<g ref="char:EOLhyphen"/>tion (with great applauſe) of every eye; and ſpake her a <hi>woman,</hi> while yet a <hi>Child.</hi>
+               </p>
+               <p>But I muſt go higher, and tell you, ſuch was her mothers Religious care, in her Education, that before ſhe was eight years old, ſhe had made her read ſo perfectly, that ſhe exceeded both her equalls, and very many of far greater age; yea (I am confident) even moſt of her own ſexe.</p>
+               <p>But above all, her chiefeſt endeavour was to make her skilfull in the Book of Books, <hi>Gods own Book; which (though ſo young, and tender, as ſhe was)</hi> ſhe had read through more then once
+<pb n="23" facs="tcp:135149:15"/> or twice, beſides ſeveral other Books, which to name, were too great a Labour, and a waſting of the time. So that we may ſay of her as Saint <hi>Paul</hi> of <hi>Timothy,</hi> 2 <hi>Tim.</hi> 3. 15. That from a <hi>Child</hi>
+                  <note place="margin">2 Tim. 3 15.</note> 
+                  <hi>ſhe hath known the Scriptures.</hi> And that ſhe might underſtand them the better, This <hi>Pious Mother</hi> had laid a good foundation, inſtructed her in the Principles of Religion, and made her expert in both the Catechiſmes.</p>
+               <p>And now though ſhe be taken away from her daughter, yet ſhe hath left her a perpetuall Re<g ref="char:EOLhyphen"/>membrance. <hi>Her own Precepts,</hi> and Pattern; To <hi>take God for her guide,</hi> and <hi>make Religion her Glory.</hi> 'Tis her honour indeed to be born of <hi>ſuch a Mo<g ref="char:EOLhyphen"/>ther,</hi> whoſe <hi>Life</hi> was an <hi>Example,</hi> and whoſe <hi>Ex<g ref="char:EOLhyphen"/>ample</hi> deſerved to bee <hi>Remembred,</hi> and may juſtly both incourage and Command <hi>her Imi<g ref="char:EOLhyphen"/>tation.</hi>
+               </p>
+               <p>Theſe are the Chief Colours in her <hi>Arms,</hi> though ſhe wants not others to Grace her Fune<g ref="char:EOLhyphen"/>ralls (as ye ſee). Thoſe Blacks and Eſchutcheons that are before your eyes, ſhe needs not, to adorn her Herſe.</p>
+               <p>Would ye have any Flowers (as the Cuſtom is)? Why, ſhe hath provided ſome her ſelf, as ye hear; I have but tied them together, to throw them up<g ref="char:EOLhyphen"/>on her grave.</p>
+               <p>Would ye have any <hi>Oyntments,</hi> or <hi>ſweet Odours?</hi>
+                  <pb n="24" facs="tcp:135149:16"/> Why, ſhe her ſelf hath prepared them againſt her Buriall, to perfume her Corps, <hi>as Mary did our Saviours. A good report is better then a Precious</hi>
+                  <note place="margin">Matth. 26. 12</note> 
+                  <hi>Oyntment, Eccleſ.</hi> 7. 1. I doe but powre it out, and<note place="margin">Eccl. 7. 1.</note> ſprinkle it among you; I hope we ſhall all ſmell the better for it.</p>
+               <p>But is it not pitie we ſhould part thus? Give me leave to look back again, and to propoſe the queſtion anew: Is it not pitie that ſuch a <hi>Frame</hi> ſhould be taken in pieces? that ſuch a <hi>Knot</hi> ſhould be untied? Is it not pitie ſuch a <hi>Graci<g ref="char:EOLhyphen"/>ous Diſpoſition</hi> ſhould be ſubject to <hi>Diſſolution?</hi> It is indeed, if we look no higher then our own Deſignes. But if we look into the Text, <hi>'Tis the Lords doing; He</hi> it is that may Challenge his own; As I told you in the beginning, <hi>He</hi> made this <hi>goodly frame,</hi> and may <hi>unmake</hi> it; He <hi>made</hi> this <hi>Match,</hi> and may <hi>Break</hi> this <hi>Match;</hi> He gave thoſe <hi>Graces,</hi> and may call for a return of thoſe Graces; His deareſt Children muſt ſuffer the loſs of all, without repining; <hi>Behold I take away from thee the deſire.</hi>
+               </p>
+               <p>And is ſhee taken away? Hath <hi>Death</hi> ſeiſed upon her by a <hi>Stroke?</hi> was ſhee ſnacht away, and ſurprized as it were, before we thought up<g ref="char:EOLhyphen"/>on it? 'Tis true, Beloved, <hi>We</hi> might be ſur<g ref="char:EOLhyphen"/>prized, but ſo could not <hi>She.</hi> Ye heard of her Life; She could not be unprovided for
+<pb n="25" facs="tcp:135149:16"/> 
+                  <hi>Death;</hi> She that lead ſuch a bleſſed life, muſt needs be Bleſſed in her death. You muſt there<g ref="char:EOLhyphen"/>fore know, That ſhe died in <hi>Child-bed,</hi> and while ſhe brings another Saint to life, within few dayes after, ſhe reſignes her own.</p>
+               <p>The Throws of a woman in travail, are dan<g ref="char:EOLhyphen"/>gerous, and threaten death, in the beſt condi<g ref="char:EOLhyphen"/>tion, and will make thoſe that are moſt ſecure, look about them: But a <hi>Religious woman,</hi> ever expects <hi>Death</hi> in it, and is never unprepared for it. Sure I am, this <hi>worthy Gentlewoman,</hi> as through the whole Courſe of her life, you could never heare any vain, or idle diſcourſe proceed from her bleſſed mouth: So now more eſpecially, it was ever filled with heavenly language, and breathed out nothing but Devotion.</p>
+               <p>For that purpoſe, ſhe deſired my ſelf, not long before the time of her travail, to make her partaker of the <hi>Pawns</hi> and <hi>Pledges of her ſal<g ref="char:EOLhyphen"/>vation,</hi> in the <hi>bleſſed Sacrament,</hi> that whatſoever befell her, in that great conflict, ſhe might have her <hi>Viaticum,</hi> her heavenly proviſion, as the Fa<g ref="char:EOLhyphen"/>thers call it, the food of her ſoul, to witneſſe her faith, and her hope, and to give us aſſu<g ref="char:EOLhyphen"/>rance of her preparation: And certainly, ſhe that prepared her ſelf for the Sacrament, ſo neer the time of her danger, did alſo by the <hi>Sacra<g ref="char:EOLhyphen"/>ment,</hi> prepare her ſelf for <hi>Death.</hi>
+               </p>
+               <pb n="26" facs="tcp:135149:17"/>
+               <p> And indeed, the Lord had prepared her, for Himſelf; and though death were able to divide her from her <hi>deareſt Husband,</hi> and her neareſt friends, yet it could not divide her from her <hi>God:</hi> Even in the hour, and Pangs of death when ſtrength and ſenſes ſeemed to fail, when <hi>ſhe</hi> knew no body, <hi>her</hi> heart was fixt upon her Creator, his name only was in <hi>her</hi> mouth, and <hi>her</hi> laſt words, that were heard fall from <hi>her,</hi> ſweetly warbled forth this heavenly Note, <hi>Lord, where am I? I am here, Lord.</hi> As if <hi>ſhe</hi> were ſeeking <hi>her</hi> Saviour, to reſigne <hi>her</hi> ſoul into his hands, where <hi>ſhe</hi> might find reſt from <hi>her Labour.</hi>
+               </p>
+               <p>Thus ſhe <hi>lived,</hi> and thus ſhe <hi>died,</hi> carrying with Her thoſe Graces and goodneſs, that were the Or<g ref="char:EOLhyphen"/>naments of her life; But leaving us, the grief for ſo great a loſs, and thoſe ſad Remaines that we are about to carry, and lay up in her Grave.</p>
+               <p>Now if my words and teſtimony may add honour to her Funerall, give me leave to ex<g ref="char:EOLhyphen"/>preſſe the hopes that I have of Her happineſſe, in an heavenly deſire,
+<q>
+                     <l>Cum mihi ſupremos Lacheſis perneverit annos.</l>
+                     <l>Non aliter cineres mando jaceremeos.<note place="margin">
+                           <hi>Mart. Epig. lib.</hi> 1. <hi>Ep.</hi> 89.</note>
+                     </l>
+                  </q>
+               </p>
+               <p>Thus would I live, and when I die, I wiſh my ſoul may be a companion with <hi>Hers.</hi>
+               </p>
+               <p>And now I would call for your tears, but that I
+<pb n="27" facs="tcp:135149:17"/> ſee them trickling down your cheeks already: Mourning is ſeaſonable, and is an argument of of love, and affection: <hi>Flebat et Jeſus Lazarum,</hi>
+                  <note place="margin">Hierom. ſuper o<g ref="char:EOLunhyphen"/>bitum Bleſi<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </note> ſaith S<hi rend="sup">t</hi> 
+                  <hi>Jerome:</hi> Our Saviour wept himſelfe for <hi>Lazarus,</hi> for he loved him; He wept at his<note place="margin">John 11. 35.</note> Grave.</p>
+               <p>But now I remember, Weep not for Her ſo much, as for your ſelves, and your friends.</p>
+               <p>Weep ye <hi>women,</hi> for ye have loſt the <hi>Glory of your ſex.</hi>
+               </p>
+               <p>Weep ye <hi>Husbands,</hi> for ye have <hi>loſt the Pattern for your Wives.</hi>
+               </p>
+               <p>Weep ye of the <hi>Kindred,</hi> for ye have <hi>loſt the ho<g ref="char:EOLhyphen"/>nour of your Blood.</hi>
+               </p>
+               <p>Weep ye that were her <hi>Friends,</hi> and <hi>Acquain<g ref="char:EOLhyphen"/>tance, ye have loſt a Companion, and a Comforter.</hi>
+               </p>
+               <p>Weep ye that were <hi>poor,</hi> and in want, ye have <hi>loſt a nurſe and a Reliever.</hi>
+               </p>
+               <p>And if I had any tears left, not yet powr'd out from thoſe eyes that were witneſſes of her worth, I would even now empty them into her Grave, and bemoan my own loſs alſo.</p>
+               <p>
+                  <hi>Death</hi> comes too neer us, when it comes to take away a Portion of our ſelves, of our <hi>eyes,</hi> of our <hi>hearts: The deſire of both.</hi> It is coming to us too: it, let us prepare for, and let it come when it will.</p>
+               <p>But now to wipe away thoſe tears, which fall from your eyes, This <hi>heavenly ſoul,</hi> whoſe
+<pb n="28" facs="tcp:135149:18"/> dead body, we are about to carry to her reſting Place, to lay her by <hi>her Mothers ſide (that noble and worthy Lady, ſometimes the Honour of this Place)</hi> Though her <hi>body,</hi> be to be buried there, and Covered with earth, yet ſhe is not loſt: <hi>H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r name lives for ever;</hi> There is amends made, for all the ſpoiles, that death can make. And I may truly ſay of Her, as that great Hiſtorian did ſometime of the Noble Roman <hi>Agricola.</hi>
+                  <note place="margin">Tacit in vita Agricola.</note> 
+                  <hi>Quicquid ex Agricola amavimus, quicquid mirati ſumus, manet; manſurumque eſt in animis hominum, in aeter<g ref="char:EOLhyphen"/>nitate Temporum, fama rerum.</hi> What ever we did love in her deceaſed, That which we admired, and honoured<g ref="char:punc">▪</g> in Her remains; and ſo will re<g ref="char:EOLhyphen"/>main in the minds of men in continuall ſucceſ<g ref="char:EOLhyphen"/>ſion of times, in fame and renown.</p>
+               <p>As ſhe was like <hi>Rachel,</hi> in her Death, and<note place="margin">Gen. 35. 18.</note> while ſhe gave life to another, in a few dayes after ſhe loſt her own; ſo ſhall ſhe have <hi>Rachels Pillar:</hi> The Monument of her vertues, more laſting then <hi>Rachel's,</hi> The goodneſſe and graces of her mind, that never die, that are never ſub<g ref="char:EOLhyphen"/>ject to rottenneſs or Corruption, to mouldring or conſuming.</p>
+               <p>I will go a little farther, and joyn altogether. Thoſe three Relations, or obligations, <hi>That made her the delight of her Husbands eyes.</hi> Firſt, <hi>Her originall frame: That ſhall be reſtored; This corrup<g ref="char:EOLhyphen"/>tible</hi>
+                  <pb n="32" facs="tcp:135149:18"/> 
+                  <hi>muſt put on incorruption; and this mortall muſt put on immortality,</hi> 1 <hi>Cor.</hi> 15. 53. Secondly, <hi>Her mar<g ref="char:EOLhyphen"/>riage</hi>
+                  <note place="margin">1 Cor. 15. 53.</note> 
+                  <hi>Covenant,</hi> That ſhall be renewed; <hi>The marriage of the Lamb is come, and his wife hathmade her ſelf ready, Rev.</hi> 19. 7. The ſoul is the Lambes<note place="margin">Rev. 19. 7</note> wife. Chriſt and his Church are married toge<g ref="char:EOLhyphen"/>ther, <hi>Eph.</hi> 5. 32. Thirdly, <hi>Her gracious diſpoſition,</hi>
+                  <note place="margin">Eph. 5. 32.</note> that never dies: <hi>Virtus clara aeternaque habetur;</hi> Riches and Beauty fade and periſh, <hi>Virtue is eternall,</hi> ſaith the wiſe Heathen man; <hi>Their</hi>
+                  <note place="margin">Saluſt. Conſur. Cat.</note> 
+                  <hi>works follow them,</hi> Saith the Spirit of God, <hi>Rev.</hi> 14. 13. The graces and goodneſſe of Her mind<note place="margin">Rev. 14. 13.</note> continue for ever; And as the Apoſtle ſpeaks of <hi>Abel,</hi> ſo may I of her; <hi>By them, ſhe being dead, yet ſpeakes, Heb.</hi> 11. 4.<note place="margin">Heb. 11. 4.</note>
+               </p>
+               <p>For concluſion of all; That which remaines for us to doe, is, to Remember Her Graces, To imitate Her goodneſſe; when we are taken from the earth, they will accompany us to heaven; when our Saviour ſees us clothed with the robe of his righteousneſs. He will welcome his own <hi>Graces</hi> into his <hi>Fathers Glory,</hi> with a <hi>Ve<g ref="char:EOLhyphen"/>nite Beati, Come yee bleſſed of my Father, inherit the</hi>
+                  <note place="margin">Matth. 25. 34.</note> 
+                  <hi>Kingdome prepared for you from the beginning of the world; She</hi> is gone before; Now that we may follow after, and find the ſame entrance, let us firſt pray, that we may follow <hi>Her Practiſe,</hi> And at laſt, find <hi>Her Reward.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135149:19"/>
+         </div>
+         <div type="elegy__translation">
+            <pb facs="tcp:135149:19"/>
+            <head>The Elegie Engliſh'd.</head>
+            <lg>
+               <l>As Jacob's <hi>Rachel,</hi> Cole's <hi>ELIZABETH,</hi>
+               </l>
+               <l>Diſwombing their <hi>Benoni's,</hi> each found death.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Jacob</hi> on's <hi>Rachel</hi> did a Pillar reare,</l>
+               <l>So <hi>Cole</hi> on his <hi>ELIZABETH,—</hi>'Tis there.</l>
+            </lg>
+            <div type="part">
+               <lg>
+                  <l>
+                     <hi>O</hi> My <hi>ELIZABETH,</hi> my deareſt ſhe!</l>
+                  <l>My eyes Delight, and all that Good might be!</l>
+                  <l>How heavy Lord, hath thy afflicting Hand</l>
+                  <l>On me been laid!<note n="*" place="margin">
+                        <hi>vid. p.</hi> 26</note> 
+                     <hi>She anſwering thy Co<g ref="char:cmbAbbrStroke">̄</g>mand.</hi>
+                  </l>
+                  <l>She whom All loved, that did Her once but know.</l>
+                  <l>What Piety, what Charity did flow</l>
+                  <l>From Her Religious ſoul? Her ſpotleſſe Life,</l>
+                  <l>Her love ſo truely Conjugall! A Wife,</l>
+                  <l>Whoſe Train of Graces! Whoſe beauteous ſhape</l>
+                  <l>Did Her, both Lovely, and Beloved, make!</l>
+                  <l>Her Mind and Body highly did conteſt,</l>
+                  <l>To render Her to all, moſt Sweet, moſt Bleſt.</l>
+                  <l>She, She is gone. Who Her doth not bemoan,</l>
+                  <l>For Virtue loſt, or ſweetneſſe will not groane.</l>
+                  <l>The mournfull Husband ſighs, Farewell, my Sweet,</l>
+                  <l>Till at the <hi>Reſurrection</hi> we ſhall meet.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
